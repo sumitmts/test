@@ -157,6 +157,7 @@ const server = http.createServer((req, res) => {
                 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
                 ${styles}
                 <script src="https://dev-dsk-sumitkux-cdd-1c-04ea29cc.eu-west-1.amazon.com/checkout.js"></script>
+                <script src="http://localhost:8082/deals.js"></script>
             </head>
             <body>
                 <div class="header">
@@ -206,6 +207,7 @@ const server = http.createServer((req, res) => {
                 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
                 ${styles}
                 <script src="https://dev-dsk-sumitkux-cdd-1c-04ea29cc.eu-west-1.amazon.com/checkout.js"></script>
+                <script src="http://localhost:8082/deals.js"></script>
             </head>
             <body>
                 <div class="header">
