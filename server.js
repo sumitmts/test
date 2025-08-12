@@ -156,7 +156,7 @@ const server = http.createServer((req, res) => {
                 <title>Mobile Store</title>
                 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
                 ${styles}
-                <script src="https://deals-eu-beta.payments-amazon.com/deals.js?merchantId=A1YQ14D0105CP1"></script>
+                <script src="https://deals-eu.payments-amazon.com/deals.js?merchantId=A1YQ14D0105CP1"></script>
             </head>
             <body>
                 <div class="header">
